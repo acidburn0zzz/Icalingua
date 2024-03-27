@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "axios": "^0.21.2",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "fluent-ffmpeg": "^2.1.2",
     "ioredis": "^4.27.9",
     "knex": "^0.95.11",
